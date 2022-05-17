@@ -33,6 +33,6 @@
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
 <div style="display: inline_block"><br>
