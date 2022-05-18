@@ -9,8 +9,7 @@
 
 ##
 <h3 align="lefth">
-  Como me encontrar: <br> <br/>
-  
+ 📬 Como me encontrar: <br> <br/>
   
 <div> 
   <a href = "mailto:diegotec.lins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,15 +23,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolins13&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-  #### Principais linguagens e ferramentas:
+  #### 💻🔧Principais linguagens e ferramentas:
   
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Diego-lins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Diego-lins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="Diego-Lins" height="30" width="40" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
