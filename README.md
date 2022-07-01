@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou o Diego Lins ☕ </h1> 
 
 - 🔭 Atualmente trabalho na área de `emergency fire`
-- 🌱 Atualmente estou estudando `Java` e `Python`
+- 🌱 Atualmente estou estudando `Java`, `Python`, `Spring Boot` e `MySQL`
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Nas horas vagas gosto de jogar `DOTA2`, sou multi-instrumentista e adoro RPG.
 
