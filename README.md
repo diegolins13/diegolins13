@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Nas horas vagas gosto de jogar `DOTA2`, sou multi-instrumentista e adoro RPG.
 
-<i>Atualmente estou fazendo uma transição de carreira para a área de tecnologia, buscando me tornar um desenvolvedor de software. No momento estou cursando o NExT, da CESAR School e estou bastante entusiasmado com as descobertas que venho fazendo através dos estudos. </i>
+<i>Atualmente estou fazendo uma transição de carreira para a área de tecnologia, buscando me tornar um desenvolvedor de software. No momento concluí curso NExT, da CESAR School, continuo aprimorando meus conhecimentos e estou bastante entusiasmado com as descobertas que venho fazendo através dos estudos. </i>
 
 ##
 <h3 align="lefth">
